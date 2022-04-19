@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "MicroUK101-rescue")(type "Legacy")(uri "${KIPRJMOD}/MicroUK101-rescue.lib")(options "")(descr ""))
+)
