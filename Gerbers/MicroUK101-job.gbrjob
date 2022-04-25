@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "(6.0.2)"
     },
-    "CreationDate": "2022-04-19T16:16:49-04:00"
+    "CreationDate": "2022-04-25T16:03:40-04:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -50,6 +50,16 @@
       "Path": "MicroUK101-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
+    },
+    {
+      "Path": "MicroUK101-F_Mask.gbr",
+      "FileFunction": "SolderMask,Top",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "MicroUK101-B_Mask.gbr",
+      "FileFunction": "SolderMask,Bot",
+      "FilePolarity": "Negative"
     },
     {
       "Path": "MicroUK101-Edge_Cuts.gbr",
