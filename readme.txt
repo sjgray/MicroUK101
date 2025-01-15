@@ -19,7 +19,7 @@ boards.
 
 You can find my project webpage here:
 
-http://www.6502.org/users/sjgray/projects/microuk101/index.html
+http://www.cbmsteve.ca/microuk101/index.html
 
 Gerbers files can be found in the Gerbers directory. I have not actually
 made boards from these files, so use at your own risk!
